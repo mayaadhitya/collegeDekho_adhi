@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.d {
+    font-weight: bold;
+    background-color: #ffffff;
+}
+
+.heading1 {
+    font-size: 2rem;
+    font-family: "sans-serif";
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 0.1rem;
+    font-weight: bold;
+}
+
+.heading2 {
+    font-size: 1.5rem;
+    font-family: "sans-serif";
+    margin-left: 0.5rem;
+    font-weight: bold;
+}
+
+.heading3 {
+    font-size: 1.2rem;
+    font-family: "sans-serif";
+    margin-left: 0.7rem;
+    font-weight: bold;
+}
+
+.paragraph1 {
+    font-size: 1rem;
+    font-family: "sans-serif";
+    margin-left: 0.1rem;
+
+}
+
+.container-fluid {
+    height: 70vh;
+    color: white;
+}
+
+.t {
+    height: 150vh;
+}
+
+.image {
+    height: 9rem;
+    width: 9rem;
+}
+
+.image2 {
+    height: 9rem;
+    width: 9rem;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.form-heading {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: "Roboto";
+    font-size: 36px;
+}
+
+.error-message {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #dc3545;
+}
+
+.gender-field-heading {
+    font-size: 18px;
+    color: #212529;
+    margin-bottom: 10px;
+}
+
+
+.ddd {
+    height: 50px;
+}
